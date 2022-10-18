@@ -6,16 +6,9 @@
 }
 
 .btn-container button{
-
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* 
-    margin-bottom: 5px; */
     justify-content:center ;
     margin-left: 5px;
     margin-top: 2px;
-    /* height:20px; */
-    /* width:max-content; */
     background-color:#FFFFFF;
     border: 1px solid black;
     border-radius:5px;
